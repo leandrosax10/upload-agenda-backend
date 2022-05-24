@@ -15,3 +15,4 @@
 * Vs Code
 * Docker
 * Insomnia
+* PostgreSql
