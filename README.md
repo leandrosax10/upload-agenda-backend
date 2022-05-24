@@ -10,3 +10,8 @@
 * npm isntall cors
 * npm install prisma
 * npm install @prisma/client
+
+#### Ferramentas utilizadas
+* Vs Code
+* Docker
+* Insomnia
